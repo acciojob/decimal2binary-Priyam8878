@@ -1,5 +1,5 @@
 function threeSum(arr, target) {
-// write your code herefunction convertToBinary(x) {
+// write your code here function convertToBinary(x) {
     let bin = 0;
     let rem, i = 1, step = 1;
     while (x != 0) {
